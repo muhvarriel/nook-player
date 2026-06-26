@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# SwiftPM
+.build/
+.swiftpm/
+
+# Xcode
+build/
+*.xcuserstate
+*.xcworkspace
+xcuserdata/
+
+# Logs
+*.log
+
+# Large Assets & Reference Files
+download.mov
+IMG_2044.mp4
+logo-nookplayer.png
+PRD.md
