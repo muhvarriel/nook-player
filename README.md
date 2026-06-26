@@ -148,4 +148,4 @@ nook-player/
 
 ## License
 
-This software is distributed under the proprietary license of the respective repository owners. All rights reserved. Unauthorized reproduction or dissemination is strictly prohibited.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
